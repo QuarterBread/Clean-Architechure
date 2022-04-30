@@ -1,4 +1,4 @@
-# 📌Clean-Architechure
+# 📌Clean-Architecture
 - Clean Architecture 요약 정리 업로드
 
 ## 시간⏰
